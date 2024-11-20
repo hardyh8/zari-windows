@@ -42,7 +42,6 @@ ZARI WINDOWS is a **subscription-based SaaS app** built using **Flutter, Node.js
 |-------------------------------------|-----------------------------------|  
 | ![Profile](https://github.com/hardyh8/zari-windows/blob/main/images/5.png) | ![Jari Calc](https://github.com/hardyh8/zari-windows/blob/main/images/4.png) |  
 
-_Add your actual screenshot images by replacing the placeholder links above._  
 
 ---
 
