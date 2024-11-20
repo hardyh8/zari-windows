@@ -64,7 +64,7 @@ ZARI WINDOWS is a **subscription-based SaaS app** built using **Flutter, Node.js
 
 ### **Contact Details**  
 If you’d like to get in touch, feel free to reach out!  
-✉️ **Email:** [your_email@example.com]  
-💼 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com)  
+✉️ **Email:** [mailto:dhameliah48@gmail.com]  
+💼 **LinkedIn:** [Hardik Dhameliya](https://www.linkedin.com/in/hardik-dhameliya-501a091a2/)  
 
 --- 
