@@ -1,4 +1,3 @@
-Here’s the updated README with a **Screenshots** section:
 
 ---
 
@@ -37,13 +36,12 @@ ZARI WINDOWS is a **subscription-based SaaS app** built using **Flutter, Node.js
 ### **Screenshots**  
 | **Dashboard**                       | **Live Rates**                   | **Payment Screen**              |  
 |-------------------------------------|-----------------------------------|----------------------------------|  
-| ![Dashboard](https://github.com/hardyh8/zari-windows/blob/main/images/1.png) | ![Live Rates](https://github.com/hardyh8/zari-windows/blob/main/images/2.png) | ![Payment](https://github.com/hardyh8/zari-windows/blob/main/images/7.png) |  
+| ![Dashboard](https://github.com/hardyh8/zari-windows/blob/main/images/1.png) | ![Live Rates](https://github.com/hardyh8/zari-windows/blob/main/images/2.png) | ![Payment](https://github.com/hardyh8/zari-windows/blob/main/images/6.png) |  
 
 | **User Profile**                    | **Jari Calculation**             |  
 |-------------------------------------|-----------------------------------|  
 | ![Profile](https://github.com/hardyh8/zari-windows/blob/main/images/5.png) | ![Jari Calc](https://github.com/hardyh8/zari-windows/blob/main/images/4.png) |  
 
-_Add your actual screenshot images by replacing the placeholder links above._  
 
 ---
 
@@ -66,9 +64,7 @@ _Add your actual screenshot images by replacing the placeholder links above._
 
 ### **Contact Details**  
 If you’d like to get in touch, feel free to reach out!  
-✉️ **Email:** [your_email@example.com]  
-💼 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com)  
+✉️ **Email:** <a href="mailto:dhameliah48@gmail.com">dhameliah48@gmail.com</a>  
+💼 **LinkedIn:** [Hardik Dhameliya](https://www.linkedin.com/in/hardik-dhameliya-501a091a2/)  
 
 --- 
-
-Would you like help generating actual placeholder images or editing further?
