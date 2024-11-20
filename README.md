@@ -1,4 +1,3 @@
-Here’s the updated README with a **Screenshots** section:
 
 ---
 
@@ -37,7 +36,7 @@ ZARI WINDOWS is a **subscription-based SaaS app** built using **Flutter, Node.js
 ### **Screenshots**  
 | **Dashboard**                       | **Live Rates**                   | **Payment Screen**              |  
 |-------------------------------------|-----------------------------------|----------------------------------|  
-| ![Dashboard](https://github.com/hardyh8/zari-windows/blob/main/images/1.png) | ![Live Rates](https://github.com/hardyh8/zari-windows/blob/main/images/2.png) | ![Payment](https://github.com/hardyh8/zari-windows/blob/main/images/7.png) |  
+| ![Dashboard](https://github.com/hardyh8/zari-windows/blob/main/images/1.png) | ![Live Rates](https://github.com/hardyh8/zari-windows/blob/main/images/2.png) | ![Payment](https://github.com/hardyh8/zari-windows/blob/main/images/6.png) |  
 
 | **User Profile**                    | **Jari Calculation**             |  
 |-------------------------------------|-----------------------------------|  
@@ -70,5 +69,3 @@ If you’d like to get in touch, feel free to reach out!
 💼 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com)  
 
 --- 
-
-Would you like help generating actual placeholder images or editing further?
