@@ -34,9 +34,10 @@ ZARI WINDOWS is a **subscription-based SaaS app** built using **Flutter, Node.js
 ---
 
 ### **Screenshots**  
-| **Dashboard**                       | **Live Rates**                   | **Payment Screen**              | **User Profile**                    | **Jari Calculation**             |  
-|-------------------------------------|-----------------------------------|----------------------------------|-------------------------------------|-----------------------------------|    
-| ![Dashboard](https://res.cloudinary.com/daxqmyiaz/image/upload/v1759152184/2_qh8mkp.png) | ![Live Rates](https://res.cloudinary.com/daxqmyiaz/image/upload/v1759152184/1_yyiwfk.png) | ![Payment](https://res.cloudinary.com/daxqmyiaz/image/upload/v1759475866/pic6_gfz0mi.png) | ![Profile](https://res.cloudinary.com/daxqmyiaz/image/upload/v1759152185/3_glkzwb.png) | ![Jari Calc](https://res.cloudinary.com/daxqmyiaz/image/upload/v1759152185/4_br0gnw.png) |  
+
+| **Dashboard** | **Live Rates** | **Payment Screen** | **User Profile** | **Jari Calculation** |
+|---------------|----------------|---------------------|------------------|-----------------------|
+| <img src="https://res.cloudinary.com/daxqmyiaz/image/upload/v1759152184/2_qh8mkp.png" width="200"/> | <img src="https://res.cloudinary.com/daxqmyiaz/image/upload/v1759152184/1_yyiwfk.png" width="200"/> | <img src="https://res.cloudinary.com/daxqmyiaz/image/upload/v1759475866/pic6_gfz0mi.png" width="200"/> | <img src="https://res.cloudinary.com/daxqmyiaz/image/upload/v1759152185/3_glkzwb.png" width="200"/> | <img src="https://res.cloudinary.com/daxqmyiaz/image/upload/v1759152185/4_br0gnw.png" width="200"/> |
 
 
 ---
