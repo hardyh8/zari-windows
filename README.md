@@ -36,7 +36,7 @@ ZARI WINDOWS is a **subscription-based SaaS app** built using **Flutter, Node.js
 ### **Screenshots**  
 | **Dashboard**                       | **Live Rates**                   | **Payment Screen**              | **User Profile**                    | **Jari Calculation**             |  
 |-------------------------------------|-----------------------------------|----------------------------------|-------------------------------------|-----------------------------------|    
-| ![Dashboard](https://github.com/hardyh8/zari-windows/blob/main/images/1.png) | ![Live Rates](https://github.com/hardyh8/zari-windows/blob/main/images/2.png) | ![Payment](https://github.com/hardyh8/zari-windows/blob/main/images/6.png) | ![Profile](https://github.com/hardyh8/zari-windows/blob/main/images/5.png) | ![Jari Calc](https://github.com/hardyh8/zari-windows/blob/main/images/4.png) |  
+| ![Dashboard](https://res.cloudinary.com/daxqmyiaz/image/upload/v1759152184/2_qh8mkp.png) | ![Live Rates](https://res.cloudinary.com/daxqmyiaz/image/upload/v1759152184/1_yyiwfk.png) | ![Payment](https://github.com/hardyh8/zari-windows/blob/main/images/6.png) | ![Profile](https://res.cloudinary.com/daxqmyiaz/image/upload/v1759152185/3_glkzwb.png) | ![Jari Calc](https://res.cloudinary.com/daxqmyiaz/image/upload/v1759152185/4_br0gnw.png) |  
 
 
 ---
